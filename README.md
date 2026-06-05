@@ -4,7 +4,7 @@
 
 <a href="https://github.com/bitxwave">
   <img alt="hero" width="100%"
-       src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:00ffff&height=240&section=header&text=BIT%20%C3%97%20WAVE&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=riding%20packets%20across%20the%20stack&descSize=20&descAlignY=62&animation=fadeIn" />
+       src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:00ff41,100:00ffff&height=240&section=header&text=BIT%20%C3%97%20WAVE&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=riding%20packets%20across%20the%20stack&descSize=20&descAlignY=62&animation=fadeIn" />
 </a>
 
 <p align="center">
@@ -103,7 +103,7 @@ impl Daemon for me {
 <br>
 
 <img alt="footer" width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:00ff41,100:000000&height=140&section=footer&reversal=true" />
+     src="https://capsule-render.vercel.app/api?type=slice&color=0:00ffff,50:00ff41,100:000000&height=140&section=footer&reversal=true" />
 
 <p align="center">
   <i>// connection terminated · everything is a wave — even bits</i>

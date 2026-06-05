@@ -4,7 +4,7 @@
 
 <a href="https://github.com/bitxwave">
   <img alt="hero" width="100%"
-       src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:00ff41,100:00ffff&height=240&section=header&text=BIT%20%C3%97%20WAVE&fontSize=72&fontColor=ffffff&fontAlign=65&fontAlignY=34&desc=riding%20packets%20across%20the%20stack&descSize=18&descAlign=65&descAlignY=52&animation=fadeIn" />
+       src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:00ff41,100:00ffff&height=240&section=header&text=BIT%20%C3%97%20WAVE&fontSize=72&fontColor=ffffff&fontAlign=68&fontAlignY=34&desc=riding%20packets%20across%20the%20stack&descSize=18&descAlign=72&descAlignY=52&animation=fadeIn" />
 </a>
 
 <p align="center">

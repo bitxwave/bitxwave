@@ -94,10 +94,10 @@ impl Daemon for me {
 
 <p align="center">
   <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/pair%20extraordinaire-%E2%9C%A8-00ff41?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/pull%20shark-%F0%9F%A6%88%20%C3%972-ffb000?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/yolo-%F0%9F%8E%B2-ff3e3e?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/quickdraw-%E2%9A%A1-00ffff?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/starstruck-%E2%AD%90-ff8800?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/pull%20shark-%F0%9F%A6%88%20%C3%972-00ff41?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/yolo-%F0%9F%8E%B2-00ff41?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/quickdraw-%E2%9A%A1-00ff41?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/starstruck-%E2%AD%90-00ff41?style=for-the-badge&labelColor=000000" /></a>
 </p>
 
 <br>

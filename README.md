@@ -4,7 +4,7 @@
 
 <a href="https://github.com/bitxwave">
   <img alt="hero" width="100%"
-       src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,50:00ff41,100:00ffff&height=300&section=header&text=BIT%20%C3%97%20WAVE&fontSize=88&fontColor=ffffff&fontAlignY=40&desc=riding%20packets%20across%20the%20stack&descSize=22&descAlignY=66&animation=fadeIn" />
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:00ffff&height=240&section=header&text=BIT%20%C3%97%20WAVE&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=riding%20packets%20across%20the%20stack&descSize=20&descAlignY=62&animation=fadeIn" />
 </a>
 
 <p align="center">
@@ -85,7 +85,7 @@ impl Daemon for me {
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/bitxwave/bitxwave/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bitxwave/bitxwave/output/github-contribution-grid-snake.svg" />
   <img alt="snake eating my contribution grid" width="100%"
-       src="https://raw.githubusercontent.com/bitxwave/bitxwave/output/github-contribution-grid-snake-dark.svg" />
+       src="https://raw.githubusercontent.com/bitxwave/bitxwave/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br>
@@ -103,7 +103,7 @@ impl Daemon for me {
 <br>
 
 <img alt="footer" width="100%"
-     src="https://capsule-render.vercel.app/api?type=wave&color=0:00ffff,50:00ff41,100:000000&height=140&section=footer&reversal=true" />
+     src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,50:00ff41,100:000000&height=140&section=footer&reversal=true" />
 
 <p align="center">
   <i>// connection terminated · everything is a wave — even bits</i>

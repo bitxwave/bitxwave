@@ -2,21 +2,29 @@
 <!--   bit × wave  //  v4 — neon hacker (verified-only assets)    -->
 <!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-<a href="https://github.com/bitxwave">
-  <img alt="hero" width="100%"
-       src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:00ff41,100:00ffff&height=240&section=header&text=BIT%20%C3%97%20WAVE&fontSize=72&fontColor=ffffff&fontAlign=68&fontAlignY=34&desc=riding%20packets%20across%20the%20stack&descSize=18&descAlign=72&descAlignY=52&animation=fadeIn" />
-</a>
+```ansi
+[38;5;46m
+██████╗ ██╗████████╗   ██╗  ██╗   ██╗    ██╗ █████╗ ██╗   ██╗███████╗
+██╔══██╗██║╚══██╔══╝   ╚██╗██╔╝   ██║    ██║██╔══██╗██║   ██║██╔════╝
+██████╔╝██║   ██║       ╚███╔╝    ██║ █╗ ██║███████║██║   ██║█████╗
+██╔══██╗██║   ██║       ██╔██╗    ██║███╗██║██╔══██║╚██╗ ██╔╝██╔══╝
+██████╔╝██║   ██║      ██╔╝ ██╗   ╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗
+╚═════╝ ╚═╝   ╚═╝      ╚═╝  ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
+[0m
+[38;5;51m  // riding packets across the stack · rust · svelte · shell · asl[0m
+```
 
 <p align="center">
   <img alt="typing"
-       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2400&pause=500&color=00FF41&center=true&vCenter=true&width=760&height=46&lines=%24+whoami;%3E+open-source+builder+%26+packet+wrangler;%3E+rust+%C2%B7+svelte+%C2%B7+shell+%C2%B7+asl;%3E+talk+is+cheap%2C+show+me+the+config" />
+       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=500&color=00FF41&center=true&vCenter=true&width=760&height=42&lines=%24+whoami;%3E+open-source+builder+%26+packet+wrangler;%3E+talk+is+cheap%2C+show+me+the+config" />
 </p>
 
 <p align="center">
-  <img alt="status"    src="https://img.shields.io/badge/status-online-00ff41?style=for-the-badge&labelColor=000000&logo=githubactions&logoColor=00ff41" />
-  <img alt="followers" src="https://img.shields.io/github/followers/bitxwave?style=for-the-badge&label=followers&color=00ffff&labelColor=000000&logo=github" />
-  <img alt="stars"     src="https://img.shields.io/github/stars/bitxwave?style=for-the-badge&label=total%20stars&color=ffb000&labelColor=000000&logo=apachespark&logoColor=ffb000" />
-  <img alt="visitors"  src="https://komarev.com/ghpvc/?username=bitxwave&label=visitors&color=00ff41&style=for-the-badge" />
+  <img alt="kernel"    src="https://img.shields.io/badge/kernel-bitxwave--6.06--neon-216e39?style=flat-square&labelColor=21262d&logo=linux&logoColor=00ff41" />
+  <img alt="uptime"    src="https://img.shields.io/badge/uptime-∞-216e39?style=flat-square&labelColor=21262d&logo=clockify&logoColor=00ff41" />
+  <img alt="followers" src="https://img.shields.io/github/followers/bitxwave?style=flat-square&label=followers&color=216e39&labelColor=21262d&logo=github&logoColor=00ff41" />
+  <img alt="stars"     src="https://img.shields.io/github/stars/bitxwave?style=flat-square&label=stars&color=216e39&labelColor=21262d&logo=apachespark&logoColor=00ff41" />
+  <img alt="visitors"  src="https://komarev.com/ghpvc/?username=bitxwave&label=visitors&color=216e39&style=flat-square" />
 </p>
 
 <br>
@@ -102,8 +110,12 @@ impl Daemon for me {
 
 <br>
 
----
+```log
+[  OK  ] Reached target Graphical Interface.
+[  OK  ] Started Daily commit & push timer.
+[  OK  ] Mounted /dev/lab on /home/bitxwave.
+[ INFO ] System ready · awaiting input.
+[ INFO ] "everything is a wave — even bits."
 
-<p align="center">
-  <sub><i>// connection terminated · everything is a wave — even bits</i></sub>
-</p>
+bitxwave login: _
+```

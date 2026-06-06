@@ -2,16 +2,17 @@
 <!--   bit × wave  //  v4 — neon hacker (verified-only assets)    -->
 <!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-```ansi
-[38;5;46m
+```
+
 ██████╗ ██╗████████╗   ██╗  ██╗   ██╗    ██╗ █████╗ ██╗   ██╗███████╗
 ██╔══██╗██║╚══██╔══╝   ╚██╗██╔╝   ██║    ██║██╔══██╗██║   ██║██╔════╝
 ██████╔╝██║   ██║       ╚███╔╝    ██║ █╗ ██║███████║██║   ██║█████╗
 ██╔══██╗██║   ██║       ██╔██╗    ██║███╗██║██╔══██║╚██╗ ██╔╝██╔══╝
 ██████╔╝██║   ██║      ██╔╝ ██╗   ╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗
 ╚═════╝ ╚═╝   ╚═╝      ╚═╝  ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
-[0m
-[38;5;51m  // riding packets across the stack · rust · svelte · shell · asl[0m
+
+  // riding packets across the stack · rust · svelte · shell · asl
+
 ```
 
 <p align="center">
@@ -110,12 +111,12 @@ impl Daemon for me {
 
 <br>
 
-```log
-[  OK  ] Reached target Graphical Interface.
-[  OK  ] Started Daily commit & push timer.
-[  OK  ] Mounted /dev/lab on /home/bitxwave.
-[ INFO ] System ready · awaiting input.
-[ INFO ] "everything is a wave — even bits."
+```diff
++ [  OK  ] Reached target Graphical Interface.
++ [  OK  ] Started Daily commit & push timer.
++ [  OK  ] Mounted /dev/lab on /home/bitxwave.
+@@ System ready · awaiting input @@
+! "everything is a wave — even bits."
 
-bitxwave login: _
+# bitxwave login: _
 ```

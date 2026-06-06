@@ -2,23 +2,16 @@
 <!--   bit × wave  //  v4 — neon hacker (verified-only assets)    -->
 <!-- ╚════════════════════════════════════════════════════════════╝ -->
 
-```diff
-@@ Linux bitxwave 6.06-neon #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux @@
-+ [  OK  ] Booting bitxwave kernel ...
-+
-+██████╗ ██╗████████╗   ██╗  ██╗   ██╗    ██╗ █████╗ ██╗   ██╗███████╗
-+██╔══██╗██║╚══██╔══╝   ╚██╗██╔╝   ██║    ██║██╔══██╗██║   ██║██╔════╝
-+██████╔╝██║   ██║       ╚███╔╝    ██║ █╗ ██║███████║██║   ██║█████╗
-+██╔══██╗██║   ██║       ██╔██╗    ██║███╗██║██╔══██║╚██╗ ██╔╝██╔══╝
-+██████╔╝██║   ██║      ██╔╝ ██╗   ╚███╔███╔╝██║  ██║ ╚████╔╝ ███████╗
-+╚═════╝ ╚═╝   ╚═╝      ╚═╝  ╚═╝    ╚══╝╚══╝ ╚═╝  ╚═╝  ╚═══╝  ╚══════╝
-+
-! // riding packets across the stack · rust · svelte · shell · asl
-```
+<p align="center">
+  <a href="https://github.com/bitxwave">
+    <img alt="bit × wave"
+         src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=72&duration=3500&pause=900&color=00FF41&center=true&vCenter=true&width=900&height=110&lines=BIT+%C3%97+WAVE_;%24+whoami_;%24+./bitxwave_" />
+  </a>
+</p>
 
 <p align="center">
-  <img alt="typing"
-       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=500&color=00FF41&center=true&vCenter=true&width=760&height=42&lines=%24+whoami;%3E+open-source+builder+%26+packet+wrangler;%3E+talk+is+cheap%2C+show+me+the+config" />
+  <img alt="subtitle"
+       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=600&color=00C8FF&center=true&vCenter=true&width=820&height=40&lines=%2F%2F+riding+packets+across+the+stack;%2F%2F+open-source+builder+%26+packet+wrangler;%2F%2F+rust+%C2%B7+svelte+%C2%B7+shell+%C2%B7+asl;%2F%2F+talk+is+cheap%2C+show+me+the+config" />
 </p>
 
 <p align="center">
@@ -112,12 +105,11 @@ impl Daemon for me {
 
 <br>
 
-```diff
-+ [  OK  ] Reached target Graphical Interface.
-+ [  OK  ] Started Daily commit & push timer.
-+ [  OK  ] Mounted /dev/lab on /home/bitxwave.
-@@ System ready · awaiting input @@
-! "everything is a wave — even bits."
+<p align="center">
+  <img alt="shutdown"
+       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=900&height=46&lines=%5B++OK++%5D+commit+daemon+looping...;%5B++OK++%5D+coffee+supply+%3A+nominal;%5B++OK++%5D+ship+early%2C+ship+often;%2F%2F+everything+is+a+wave+%E2%80%94+even+bits" />
+</p>
 
-# bitxwave login: _
-```
+<p align="center">
+  <sub><code>bitxwave login: _</code></sub>
+</p>

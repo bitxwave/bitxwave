@@ -93,18 +93,17 @@ impl Daemon for me {
 ## `> achievements --unlocked`
 
 <p align="center">
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/pair%20extraordinaire-%E2%9C%A8-00ff41?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/pull%20shark-%F0%9F%A6%88%20%C3%972-00ff41?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/yolo-%F0%9F%8E%B2-00ff41?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/quickdraw-%E2%9A%A1-00ff41?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/starstruck-%E2%AD%90-00ff41?style=for-the-badge&labelColor=000000" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/pair%20extraordinaire-%E2%9C%A8-216e39?style=flat&labelColor=21262d" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/pull%20shark%20%C3%972-%F0%9F%A6%88-216e39?style=flat&labelColor=21262d" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/yolo-%F0%9F%8E%B2-216e39?style=flat&labelColor=21262d" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/quickdraw-%E2%9A%A1-216e39?style=flat&labelColor=21262d" /></a>
+  <a href="https://github.com/bitxwave?tab=achievements"><img src="https://img.shields.io/badge/starstruck-%E2%AD%90-216e39?style=flat&labelColor=21262d" /></a>
 </p>
 
 <br>
 
-<img alt="footer" width="100%"
-     src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,50:00ff41,100:000000&height=8&section=footer&reversal=true" />
+---
 
 <p align="center">
-  <i>// connection terminated · everything is a wave — even bits</i>
+  <sub><i>// connection terminated · everything is a wave — even bits</i></sub>
 </p>
